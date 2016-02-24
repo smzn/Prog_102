@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prog_102</string>
+    <string name="message_pet">ペット紹介</string>
+    <string name="message_dog">犬です。</string>
+    <string name="message_cat">猫です。</string>
+    <string name="label_dog">dog</string>
+    <string name="label_cat">cat</string>
+</resources>
